@@ -3,7 +3,7 @@
   font-family: Verdana;
 }
 
-h5 {
+.link {
   color: Aquamarine;
   text-align: center;
 }
@@ -41,7 +41,7 @@ h5 {
   text-align: center;
 }
 
-h4 {
+.footer {
   text-align: right;
   color: gray;
 }
